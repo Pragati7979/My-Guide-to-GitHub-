@@ -8,7 +8,7 @@ this is the place where ypur commits will be stored on the internet
 or we can say that will will be hosted there.
 5) open hyper write the following commands.
 6) git init
-6) git remote add origin urlOfYourRepo.
+7) git remote add origin urlOfYourRepo.
 origin-->name of repo url.
-7) git push -u origin master //-u will link local file to remotely 
+8) git push -u origin master //-u will link local file to remotely 
 created repository called origin.
