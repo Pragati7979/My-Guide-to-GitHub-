@@ -7,3 +7,6 @@ Q.1)What is master branch?
 Ans) Master branch is record of all your commits in a 
 sequential manner.
 
+Q.2)git push -u origin master ? What is the meaning ?
+Ans) This means that we are pushing the files from our local pc
+unto the origin remote and default branch called master.
