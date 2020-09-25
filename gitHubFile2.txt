@@ -1,0 +1,9 @@
+How to see your changes in the github?
+1) Click to insight --> Network
+//this will tell you that how many changes you have made.
+2)Go back ,click on commit and see your commits 
+
+Q.1)What is master branch?
+Ans) Master branch is record of all your commits in a 
+sequential manner.
+
